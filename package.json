@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "fast-csv": "^4.3.6",
+    "node-fetch": "^3.2.0"
+  }
+}
